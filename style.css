@@ -31,8 +31,14 @@ body {
     padding: 20px 0;
 }
 
+.appName, .colourName {
+    margin: 10px 0;
+    padding: 0;
+}
+
 .rgbText {
     font-size: 5.5rem;
+    margin: 0;
 }
 
 .divider {
@@ -61,6 +67,6 @@ button:hover, .selected {
 
 .messageBox {
     display: inline-block;
-    width: 20px;
+    width: 20%;
 }
 
