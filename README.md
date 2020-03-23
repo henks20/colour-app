@@ -5,4 +5,4 @@ Simple app using:
 * CSS
 * Javascript.
 
-LIVE demo: here
+LIVE demo: [Link](https://henks20.github.io/colour-app/)
