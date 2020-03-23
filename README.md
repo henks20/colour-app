@@ -1,5 +1,8 @@
 # ColourApp
 
-Simple app using: HTML, CSS & Javascript.
+Simple app using: 
+* HTML
+* CSS
+* Javascript.
 
 LIVE demo: here
