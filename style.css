@@ -25,20 +25,21 @@ body {
     font-weight: bold;
     line-height: 1.1;
     text-align: center;
-    background-color: #4682b4;
     margin: 0;
     text-transform: uppercase;
     padding: 20px 0;
 }
 
-.appName, .colourName {
-    margin: 10px 0;
+.appName {
+    font-size: 1.5rem;
     padding: 0;
+    margin: 10px 0;
 }
 
-.rgbText {
-    font-size: 5.5rem;
+.colourName {
+    font-size: 3rem;
     margin: 0;
+    padding: 0;
 }
 
 .divider {
@@ -53,7 +54,7 @@ button {
     text-transform: uppercase;
     height: 100%;
     font-weight: bold;
-    color: #4682b4;
+    color: #333538;
     letter-spacing: 4px;
     font-size: inherit;
     transition: all 0.3s;
@@ -62,7 +63,7 @@ button {
 
 button:hover, .selected {
     color: #FFFFFF;
-    background: #4682b4;
+    background: #333538;
 }
 
 .messageBox {

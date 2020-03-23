@@ -67,7 +67,7 @@ const appReset = () => {
 			squares[i].style.display = "none";
 		}
     };
-    header.style.backgroundColor = "#4682b4";
+    header.style.backgroundColor = "#222222";
 };
 
 const setSquares = () => {
